@@ -1,0 +1,14 @@
+{
+    "postRequestBody": {
+      "firstName": "Lewis",
+      "lastName": "Carroll",
+      "email": "lewiscarroll.com",
+      "dob": "2023-27-02"
+    },
+    "putRequestBody": {
+      "firstName": "updatedLewis",
+      "lastName": "updatedCarroll",
+      "email": "updated.com",
+      "dob": "2000-01-01"
+    }
+  }
